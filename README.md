@@ -1,1 +1,8 @@
-# foss_conda_lesson
+# foss_conda_lesso
+
+
+#####
+######
+####
+###
+#
