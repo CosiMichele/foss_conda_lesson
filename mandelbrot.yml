@@ -1,4 +1,4 @@
-name: mandlebrot
+name: mandelbrot
 channels:
   - defaults
 dependencies:
